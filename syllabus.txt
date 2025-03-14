@@ -1,2 +1,3 @@
 Machine learning Syllabus
 Practical List
+Mini Projects
