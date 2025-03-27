@@ -2,3 +2,4 @@ Machine learning Syllabus
 Practical List
 Mini Projects
 Some datasets with amazing techniques
+Mean,Median,Mode
